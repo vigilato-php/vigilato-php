@@ -4,7 +4,7 @@
 - Desenvolvedor Back-End, apaixonado pelo que faço <br>
 - Sou criativo, fascinado por inovação e tecnologia <br>
 - Cursando Tecnologia em Banco de Dados pela Uninove <br>
-- Conhecimentos em JavaScript, jQuery, PHP, Laravel e MySQL <br>
+- Conhecimentos em JavaScript, jQuery, PHP, Laravel e PostgreSQL <br>
 </div>
 
 ###
